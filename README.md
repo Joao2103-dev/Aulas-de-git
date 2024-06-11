@@ -7,3 +7,4 @@
 * comando git push
 * teste github
 * comando git pull
+* comando git fetch
