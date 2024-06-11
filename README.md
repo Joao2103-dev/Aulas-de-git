@@ -4,3 +4,4 @@
 # gg ssp iszzy
 # aula xata
 * uso do restore
+* comando git push
