@@ -6,3 +6,4 @@
 * uso do restore
 * comando git push
 * teste github
+* comando git pull
